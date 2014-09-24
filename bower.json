@@ -1,0 +1,21 @@
+{
+  "name": "Ming-Tang.github.io",
+  "version": "0.0.0",
+  "homepage": "http://Ming-Tang.github.io",
+  "authors": [
+    "Ming Tang"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}

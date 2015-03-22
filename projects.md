@@ -9,15 +9,15 @@ Hackathons
 
 nwHACKS 2015: CarO2
 -------------------
-https://github.com/andresrama/NWHacks2015-TheDanglingPointers
+<https://github.com/andresrama/NWHacks2015-TheDanglingPointers>
 
 Canadian Open Data Exchange 2014: CityData
 ------------------------------------------
-https://github.com/Feld0/CityData
+<https://github.com/Feld0/CityData>
 
 Global Game Jam: Amgrok
 -----------------------
-https://github.com/jensen/Amgrok
+<https://github.com/jensen/Amgrok>
 
 Projects
 ========
@@ -26,13 +26,13 @@ Projects
 ----
 
 ### LSMTD
-https://github.com/Ming-Tang/LSMTD-Domain-Model
+<https://github.com/Ming-Tang/LSMTD-Domain-Model>
 
 ### TV Tropes
-https://github.com/Ming-Tang/TVTropes
+<https://github.com/Ming-Tang/TVTropes>
 
 ### Minesweeper F&#35;
-https://github.com/Ming-Tang/MinesweeperFSharp
+<https://github.com/Ming-Tang/MinesweeperFSharp>
 
 Legacy Projects
 ===============
@@ -41,7 +41,7 @@ Legacy Projects
 ----
 
 ### Link Tree
-https://github.com/Ming-Tang/Link-Tree
+<https://github.com/Ming-Tang/Link-Tree>
 
 A Chrome extension that displays a graph of the webpages you navigated.
 The draph is drawn through [force-directed graph drawing][1].
@@ -50,18 +50,18 @@ The draph is drawn through [force-directed graph drawing][1].
 ----
 
 ### F&#35; Genetic Algorithm
-https://github.com/Ming-Tang/fs-genetic-algorithm-examples
+<https://github.com/Ming-Tang/fs-genetic-algorithm-examples>
 
 Some code I wrote when I was reading about genetic algorithm.
 
 ### MinesweeperFX
-https://github.com/Ming-Tang/MinesweeperFX
+<https://github.com/Ming-Tang/MinesweeperFX>
 
 The GUI frontend of my Minesweeper implementation in Java. There is a
 "Cheat" button to access the solver.
 
 ### Minesweeper
-https://github.com/Ming-Tang/Minesweeper
+<https://github.com/Ming-Tang/Minesweeper>
 
 Minesweeper solver written in Java. The algorithm is based on how humans
 play Minesweeper (count squares, subsets and intersections).
@@ -70,7 +70,7 @@ play Minesweeper (count squares, subsets and intersections).
 ----
 
 ### Qwerty RPN
-https://github.com/Ming-Tang/Qwerty-RPN
+<https://github.com/Ming-Tang/Qwerty-RPN>
 
 My attempt at creating a Turing-complete language in Perl. It is a
 reverse Polish notation calculator with many single-letter commands.
